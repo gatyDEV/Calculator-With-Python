@@ -1,0 +1,18 @@
+Esta calculadora la ise en python para usarlo hay
+que tener 
+
+-python instalado
+-la libreria de colorama instalado
+-y un editor de texto para usar los scripts
+-una terminal para poder probar el resultado
+
+Ruecuerden es solo un tutorial de como hacer una
+calculadora tambien le dejo los scripts
+para poder entender mejor todo
+
+es modificable poder modificarlo a tu gusto la
+-gui
+-el codigo interno
+-y otras operaciones
+
+es como una base
